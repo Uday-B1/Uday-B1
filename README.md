@@ -55,8 +55,6 @@
             src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" /></a> &nbsp;&nbsp;
     <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark"
             alt="Git" /></a> &nbsp;&nbsp;
-    <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark"
-            alt="Postman" /></a> &nbsp;&nbsp;
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark"
             alt="VS Code" /></a>
 </p>
