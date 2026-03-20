@@ -1,13 +1,17 @@
 <p align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+I'm+Uday;⚡+Full+Stack+Developer;💻+Aspiring+SDE" />
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+I'm+Uday;⚡+Full+Stack+Developer;💻+Aspiring+Software+Engineer" />
 </p>
 
 ---
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Uday-B1&label=Profile%20Views&color=2EA043&style=flat"
-        alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Uday-B1&label=Profile%20Views&color=2EA043&label_color=0d1117&style=flat"
+        alt="Profile Views" height="32" />
+    &nbsp;&nbsp;
+    <a href="https://uday-b1.github.io/" target="_blank">
+        <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-2EA043?style=flat&labelColor=0d1117&color=2EA043" alt="Portfolio" height="32" />
+    </a>
 </p>
 
 <table align="center">
