@@ -63,19 +63,6 @@
             alt="VS Code" /></a>
 </p>
 
----
-
-<h2> 🚀 Featured Projects </h2>
-
-<div align="center">
-
-| Project Name | Tech Stack | Link |
-| :--- | :--- | :--- |
-| **Project Alpha** | <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="30" alt="React" /></a> &nbsp;&nbsp; <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="30" alt="Node.js" /></a> | [View Repo](#) |
-| **E-Commerce Hub** | <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="30" alt="Next.js" /></a> &nbsp;&nbsp; <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="30" alt="MongoDB" /></a> | [View Repo](#) |
-| **Portfolio Setup** | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="30" alt="HTML5" /></a> &nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="30" alt="CSS3" /></a> | [View Repo](#) |
-
-</div>
 
 ---
 
