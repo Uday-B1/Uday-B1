@@ -1,6 +1,6 @@
 <p align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+I'm+Uday;⚡+Full+Stack+Developer;💻+Aspiring+Software+Engineer" />
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+I'm+Uday;⚡+Full+Stack+Developer;💻+Software+Engineer;" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
     <tr>
         <td valign="top" width="50%">
             <p align="center"> Hi there! I'm <strong>Uday</strong>, a passionate <strong>Full Stack Developer</strong>
-                and Aspiring <strong>Software Development Engineer</strong>. </p>
+                and <strong>Software Engineer</strong>. </p>
             <p align="center">
                 • 🎓 Currently learning Full Stack Development with a focus on modern web technologies
                 <br><br>
